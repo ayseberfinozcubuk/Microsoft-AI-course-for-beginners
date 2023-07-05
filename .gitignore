@@ -68,6 +68,9 @@ instance/
 # Scrapy stuff:
 .scrapy
 
+*.pkl
+*.pkl.gz
+
 # Sphinx documentation
 docs/_build/
 
